@@ -2,6 +2,7 @@ provider "aws" {
   region = var.region
 }
 
+# comment test
 data "aws_region" "current" {}
 locals {
   tags = {
