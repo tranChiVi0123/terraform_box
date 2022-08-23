@@ -1,0 +1,2 @@
+{"@level":"info","@message":"Terraform 1.2.5","@module":"terraform.ui","@timestamp":"2022-07-27T03:32:14.857604+09:00","terraform":"1.2.5","type":"version","ui":"1.0"}
+{"@level":"error","@message":"Error: Too many command line arguments","@module":"terraform.ui","@timestamp":"2022-07-27T03:32:14.857760+09:00","diagnostic":{"severity":"error","summary":"Too many command line arguments","detail":"To specify a working directory for the plan, use the global -chdir flag."},"type":"diagnostic"}
